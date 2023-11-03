@@ -1,0 +1,2 @@
+si hola == hola
+si hola == true escribir hola;
